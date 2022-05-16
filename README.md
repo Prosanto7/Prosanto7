@@ -32,10 +32,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prosanto7)](https://git.io/streak-stats)
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Prosanto7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prosanto7&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Prosanto7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prosanto7&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
